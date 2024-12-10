@@ -1,0 +1,20 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment files
+venv/
+env/
+*.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.jpg
+*.png
+output.jpg
