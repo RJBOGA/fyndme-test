@@ -4,7 +4,7 @@
 This project demonstrates the following:
 1. **Image Processing and Object Detection** using YOLOv5 for detecting products on a shelf image.
 2. **Backend RESTful API Development** using Flask to manage product information.
-## 3. Data Handling and Augmented Reality Integration (Was part of test but not integrated in this test as I have not enough knowledge in AR)
+3. Data Handling and Augmented Reality Integration (Was part of test but not integrated in this test as I have not enough knowledge in AR)
 
 
 ## Section 1/image_processing: Object Detection with YOLOv5
