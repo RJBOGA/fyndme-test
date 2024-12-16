@@ -16,6 +16,7 @@ This project demonstrates the following:
   - PyTorch
   - NumPy
   - YOLOv5
+  - Pandas
 
 ### Setup Instructions
 1. Navigate to the `image_processing` folder:
@@ -60,3 +61,5 @@ python yolo_inference.py
     {"name": "Product A", "price": 150.0}
 4. Update a Product: Endpoint: PUT /products/1
 5. Delete a Product: Endpoint: DELETE /products/1
+
+### video demo: https://drive.google.com/file/d/1aEH3-BWCgMM3DLdKiln5C93qO0ekutjT/view?usp=sharing

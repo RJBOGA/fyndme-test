@@ -5,7 +5,7 @@ app = Flask(__name__)
 # In-memory storage
 products = {}
 next_id = 1  # Auto-increment
-products = {"id": 0, "name": "Product 0", "price": 0.0}
+# products = {"id": 0, "name": "Product 0", "price": 0.0}
 
 
 # Endpoint to retrieve all products or a single product by ID
